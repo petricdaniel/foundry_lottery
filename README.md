@@ -94,3 +94,4 @@ This code is to create a proveably random smart contract lottery.
    1. Local chain
    2. Forked Testnet
    3. Forked Mainnet
+# foundry_lottery
